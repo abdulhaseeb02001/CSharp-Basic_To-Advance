@@ -1,0 +1,15 @@
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\bin\Debug\net10.0\ProjectPractice02.exe
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\bin\Debug\net10.0\ProjectPractice02.deps.json
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\bin\Debug\net10.0\ProjectPractice02.runtimeconfig.json
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\bin\Debug\net10.0\ProjectPractice02.dll
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\bin\Debug\net10.0\ProjectPractice02.pdb
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\ProjectPractice02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\ProjectPractice02.AssemblyInfoInputs.cache
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\ProjectPractice02.AssemblyInfo.cs
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\ProjectPractice02.csproj.CoreCompileInputs.cache
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\ProjectPractice02.sourcelink.json
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\ProjectPractice02.dll
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\refint\ProjectPractice02.dll
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\ProjectPractice02.pdb
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\ProjectPractice02.genruntimeconfig.cache
+D:\Abdul_Haseeb_CV\GitHub\CSharp-Basic_To-Advance\CodeOnConsole\ProjectPractice02\ProjectPractice02\obj\Debug\net10.0\ref\ProjectPractice02.dll

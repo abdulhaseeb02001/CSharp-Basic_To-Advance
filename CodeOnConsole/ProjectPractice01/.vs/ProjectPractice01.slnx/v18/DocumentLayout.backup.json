@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdul_Haseeb_CV\\GitHub\\CSharp-Basic_To-Advance\\CodeOnConsole\\ProjectPractice01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0015794-CA5C-4144-8FC5-9F684CEEFF3D}|ProjectPractice01\\ProjectPractice01.csproj|d:\\abdul_haseeb_cv\\github\\csharp-basic_to-advance\\codeonconsole\\projectpractice01\\projectpractice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0015794-CA5C-4144-8FC5-9F684CEEFF3D}|ProjectPractice01\\ProjectPractice01.csproj|solutionrelative:projectpractice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0015794-CA5C-4144-8FC5-9F684CEEFF3D}|ProjectPractice01\\ProjectPractice01.csproj|d:\\abdul_haseeb_cv\\github\\csharp-basic_to-advance\\codeonconsole\\projectpractice01\\projectpractice01\\simpleinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0015794-CA5C-4144-8FC5-9F684CEEFF3D}|ProjectPractice01\\ProjectPractice01.csproj|solutionrelative:projectpractice01\\simpleinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0015794-CA5C-4144-8FC5-9F684CEEFF3D}|ProjectPractice01\\ProjectPractice01.csproj|d:\\abdul_haseeb_cv\\github\\csharp-basic_to-advance\\codeonconsole\\projectpractice01\\projectpractice01\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0015794-CA5C-4144-8FC5-9F684CEEFF3D}|ProjectPractice01\\ProjectPractice01.csproj|solutionrelative:projectpractice01\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleInterest.cs",
+              "DocumentMoniker": "D:\\Abdul_Haseeb_CV\\GitHub\\CSharp-Basic_To-Advance\\CodeOnConsole\\ProjectPractice01\\ProjectPractice01\\SimpleInterest.cs",
+              "RelativeDocumentMoniker": "ProjectPractice01\\SimpleInterest.cs",
+              "ToolTip": "D:\\Abdul_Haseeb_CV\\GitHub\\CSharp-Basic_To-Advance\\CodeOnConsole\\ProjectPractice01\\ProjectPractice01\\SimpleInterest.cs",
+              "RelativeToolTip": "ProjectPractice01\\SimpleInterest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:19:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\Abdul_Haseeb_CV\\GitHub\\CSharp-Basic_To-Advance\\CodeOnConsole\\ProjectPractice01\\ProjectPractice01\\Operations.cs",
+              "RelativeDocumentMoniker": "ProjectPractice01\\Operations.cs",
+              "ToolTip": "D:\\Abdul_Haseeb_CV\\GitHub\\CSharp-Basic_To-Advance\\CodeOnConsole\\ProjectPractice01\\ProjectPractice01\\Operations.cs",
+              "RelativeToolTip": "ProjectPractice01\\Operations.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:14:51.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdul_Haseeb_CV\\GitHub\\CSharp-Basic_To-Advance\\CodeOnConsole\\ProjectPractice01\\ProjectPractice01\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectPractice01\\Program.cs",
+              "ToolTip": "D:\\Abdul_Haseeb_CV\\GitHub\\CSharp-Basic_To-Advance\\CodeOnConsole\\ProjectPractice01\\ProjectPractice01\\Program.cs",
+              "RelativeToolTip": "ProjectPractice01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:00:04.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
